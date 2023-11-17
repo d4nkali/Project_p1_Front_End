@@ -1,12 +1,15 @@
 # Project_p1_Front_End
 
-Tema: Site de Estabelecimento Comercial (Padaria)
+**Tema:** Site de Estabelecimento Comercial (Padaria)
+#
 
-Equipe:
+**Equipe:**
 
 - Danilo Pereira
 - Leornado Santos
 - Miguel Rodrigues
 - João Vitor Pereira
 
-Data: 29/11/2023
+#
+
+*Data: 29/11/2023*
