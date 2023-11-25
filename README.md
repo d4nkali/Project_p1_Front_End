@@ -16,4 +16,4 @@
 
 #
 
-**OBS:** Aqui no repositorio esta o site na sua versão final. [Aqui nesse link](https://github.com/MiguelRodriguesCRN/ProjetoPadariaJardins---Miguel-Rodrigues) está o repositorio com todo o desenvolvimento do projeto. 
+**OBS:** Nesse repositorio esta o site na sua versão final. [Aqui nesse link](https://github.com/MiguelRodriguesCRN/ProjetoPadariaJardins---Miguel-Rodrigues) está o repositorio com todo o desenvolvimento do projeto. 
